@@ -1,30 +1,242 @@
 [
   {
-    "year": 2023,
-    "brand": "Audi",
-    "model": "RS3",
-    "power_kw": 294,
-    "torque_nm": 500
+    "year": 2025,
+    "brand": "Toyota",
+    "model": "Corolla Cross Hybrid",
+    "power_kw": 84,
+    "torque_nm": 142,
+    "type": "SUV"
   },
   {
-    "year": 2023,
-    "brand": "BMW",
-    "model": "M2",
-    "power_kw": 338,
-    "torque_nm": 450
+    "year": 2025,
+    "brand": "Toyota",
+    "model": "RAV4 Hybrid",
+    "power_kw": 163,
+    "torque_nm": 221,
+    "type": "SUV"
   },
   {
-    "year": 2023,
+    "year": 2024,
     "brand": "Volkswagen",
-    "model": "Golf R",
-    "power_kw": 235,
-    "torque_nm": 380
+    "model": "T-Cross",
+    "power_kw": 85,
+    "torque_nm": 175,
+    "type": "SUV"
   },
   {
-    "year": 2022,
+    "year": 2025,
+    "brand": "Volkswagen",
+    "model": "Tiguan 2.0 TSI",
+    "power_kw": 162,
+    "torque_nm": 350,
+    "type": "SUV"
+  },
+  {
+    "year": 2024,
+    "brand": "Hyundai",
+    "model": "Creta 1.5 Turbo",
+    "power_kw": 110,
+    "torque_nm": 250,
+    "type": "SUV"
+  },
+  {
+    "year": 2025,
+    "brand": "Hyundai",
+    "model": "Kona Electric",
+    "power_kw": 150,
+    "torque_nm": 255,
+    "type": "SUV"
+  },
+  {
+    "year": 2024,
+    "brand": "BMW",
+    "model": "X1 sDrive18i",
+    "power_kw": 100,
+    "torque_nm": 230,
+    "type": "SUV"
+  },
+  {
+    "year": 2025,
+    "brand": "BMW",
+    "model": "X3 xDrive30i",
+    "power_kw": 185,
+    "torque_nm": 350,
+    "type": "SUV"
+  },
+  {
+    "year": 2024,
+    "brand": "Mercedes-Benz",
+    "model": "GLA 200",
+    "power_kw": 120,
+    "torque_nm": 250,
+    "type": "SUV"
+  },
+  {
+    "year": 2025,
+    "brand": "Mercedes-Benz",
+    "model": "GLC 300",
+    "power_kw": 190,
+    "torque_nm": 400,
+    "type": "SUV"
+  },
+  {
+    "year": 2024,
+    "brand": "Ford",
+    "model": "Puma 1.0T",
+    "power_kw": 92,
+    "torque_nm": 170,
+    "type": "SUV"
+  },
+  {
+    "year": 2025,
+    "brand": "Ford",
+    "model": "Escape ST-Line",
+    "power_kw": 183,
+    "torque_nm": 387,
+    "type": "SUV"
+  },
+  {
+    "year": 2024,
     "brand": "Honda",
-    "model": "Civic Type R",
-    "power_kw": 235,
-    "torque_nm": 420
+    "model": "HR-V 1.5",
+    "power_kw": 89,
+    "torque_nm": 145,
+    "type": "SUV"
+  },
+  {
+    "year": 2025,
+    "brand": "Kia",
+    "model": "Seltos 1.5 Turbo",
+    "power_kw": 110,
+    "torque_nm": 250,
+    "type": "SUV"
+  },
+  {
+    "year": 2024,
+    "brand": "Toyota",
+    "model": "Corolla Quest",
+    "power_kw": 103,
+    "torque_nm": 173,
+    "type": "Sedan"
+  },
+  {
+    "year": 2025,
+    "brand": "Toyota",
+    "model": "Camry Hybrid",
+    "power_kw": 112,
+    "torque_nm": 199,
+    "type": "Sedan"
+  },
+  {
+    "year": 2024,
+    "brand": "Volkswagen",
+    "model": "Jetta 1.4 TSI",
+    "power_kw": 110,
+    "torque_nm": 250,
+    "type": "Sedan"
+  },
+  {
+    "year": 2025,
+    "brand": "BMW",
+    "model": "320i",
+    "power_kw": 135,
+    "torque_nm": 300,
+    "type": "Sedan"
+  },
+  {
+    "year": 2024,
+    "brand": "Mercedes-Benz",
+    "model": "C 200",
+    "power_kw": 150,
+    "torque_nm": 300,
+    "type": "Sedan"
+  },
+  {
+    "year": 2025,
+    "brand": "Audi",
+    "model": "A4 40 TFSI",
+    "power_kw": 140,
+    "torque_nm": 320,
+    "type": "Sedan"
+  },
+  {
+    "year": 2024,
+    "brand": "Honda",
+    "model": "Civic 1.5 Turbo",
+    "power_kw": 135,
+    "torque_nm": 240,
+    "type": "Sedan"
+  },
+  {
+    "year": 2024,
+    "brand": "Volkswagen",
+    "model": "Polo 1.0 TSI",
+    "power_kw": 85,
+    "torque_nm": 200,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2025,
+    "brand": "Toyota",
+    "model": "Yaris 1.5 Hybrid",
+    "power_kw": 85,
+    "torque_nm": 120,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2024,
+    "brand": "Hyundai",
+    "model": "i20 1.0 T-GDi",
+    "power_kw": 88,
+    "torque_nm": 172,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2025,
+    "brand": "Kia",
+    "model": "Rio 1.0 T-GDi",
+    "power_kw": 88,
+    "torque_nm": 172,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2024,
+    "brand": "MINI",
+    "model": "Cooper 1.5T",
+    "power_kw": 100,
+    "torque_nm": 230,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2025,
+    "brand": "Renault",
+    "model": "Clio 1.0 TCe",
+    "power_kw": 74,
+    "torque_nm": 160,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2024,
+    "brand": "Peugeot",
+    "model": "208 1.2 PureTech",
+    "power_kw": 75,
+    "torque_nm": 205,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2025,
+    "brand": "Mazda",
+    "model": "Mazda2 1.5",
+    "power_kw": 77,
+    "torque_nm": 139,
+    "type": "Hatchback"
+  },
+  {
+    "year": 2024,
+    "brand": "Suzuki",
+    "model": "Swift 1.2 Dualjet",
+    "power_kw": 67,
+    "torque_nm": 113,
+    "type": "Hatchback"
   }
 ]
