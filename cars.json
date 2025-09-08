@@ -1,0 +1,30 @@
+[
+  {
+    "year": 2023,
+    "brand": "Audi",
+    "model": "RS3",
+    "power_kw": 294,
+    "torque_nm": 500
+  },
+  {
+    "year": 2023,
+    "brand": "BMW",
+    "model": "M2",
+    "power_kw": 338,
+    "torque_nm": 450
+  },
+  {
+    "year": 2023,
+    "brand": "Volkswagen",
+    "model": "Golf R",
+    "power_kw": 235,
+    "torque_nm": 380
+  },
+  {
+    "year": 2022,
+    "brand": "Honda",
+    "model": "Civic Type R",
+    "power_kw": 235,
+    "torque_nm": 420
+  }
+]

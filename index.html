@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Car Specs Comparator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Car Power & Torque Comparator</h1>
+
+    <div class="selectors">
+      <select id="year-select"><option value="">Select Year</option></select>
+      <select id="brand-select" disabled><option value="">Select Brand</option></select>
+      <select id="model-select" disabled><option value="">Select Model</option></select>
+    </div>
+
+    <div id="selected-car" class="selected-car hidden">
+      <h2>Selected Car</h2>
+      <p id="car-name">—</p>
+      <p>Power: <span id="power">—</span> kW | Torque: <span id="torque">—</span> Nm</p>
+    </div>
+
+    <div class="toggle">
+      <button id="toggle-kw" class="active">Power (kW)</button>
+      <button id="toggle-nm">Torque (Nm)</button>
+    </div>
+
+    <div class="comparison">
+      <div id="lower-box" class="box">
+        <h3>Lower <span id="metric-label">Power</span></h3>
+        <ul id="lower-list"></ul>
+      </div>
+      <div id="higher-box" class="box">
+        <h3>Higher <span id="metric-label-2">Power</span></h3>
+        <ul id="higher-list"></ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
